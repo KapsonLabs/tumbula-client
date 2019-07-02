@@ -17288,47 +17288,12 @@
     "4": {
       "events": {},
       "links": {},
-      "address": "0x114Ebc329d6cDD434091238C558DA19208a28B21",
-      "transactionHash": "0xfeb81ff93101011c18fff2caf8817cb7aa01f0296da82cac86e6c333005ec65d"
-    },
-    "5777": {
-      "events": {
-        "0x40acbe3160a5b335621c414cca9918787adf3bfb8a3e85b34751f79c69bef0c7": {
-          "anonymous": false,
-          "inputs": [
-            {
-              "indexed": false,
-              "name": "id",
-              "type": "uint256"
-            },
-            {
-              "indexed": false,
-              "name": "first_name",
-              "type": "string"
-            },
-            {
-              "indexed": false,
-              "name": "last_name",
-              "type": "string"
-            },
-            {
-              "indexed": false,
-              "name": "active",
-              "type": "bool"
-            }
-          ],
-          "name": "storeOwnerCreated",
-          "type": "event",
-          "signature": "0x40acbe3160a5b335621c414cca9918787adf3bfb8a3e85b34751f79c69bef0c7"
-        }
-      },
-      "links": {},
-      "address": "0xcD5910ea554c9A9F7bca8deAC2d6e8d0F22d5aD1",
-      "transactionHash": "0xb65306f2eba5b75adaf4b2103a917c1affd4b240bcd38ad4d3e99ec1f6f81646"
+      "address": "0x0DbC4f4c1ACFEfB78bC77382fBB1B59dA0FA9868",
+      "transactionHash": "0x894d225478bd38b362c1810b15025b9931a581b25a813e61267d47d0a0a32dc3"
     }
   },
   "schemaVersion": "3.0.1",
-  "updatedAt": "2019-06-29T02:48:33.616Z",
+  "updatedAt": "2019-07-02T10:15:25.800Z",
   "devdoc": {
     "methods": {
       "addAdmin(address)": {

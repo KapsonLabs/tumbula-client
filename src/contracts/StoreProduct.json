@@ -9220,7 +9220,7 @@
   },
   "networks": {},
   "schemaVersion": "3.0.1",
-  "updatedAt": "2019-06-29T02:46:39.013Z",
+  "updatedAt": "2019-07-02T10:11:24.075Z",
   "devdoc": {
     "methods": {
       "allowance(address,address)": {
